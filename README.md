@@ -9,7 +9,7 @@ a passionate <strong><b>Flutter Developer</b></strong>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Udithhh&layout=compact&theme=radical&langs_count=5&hide_border=false&border_color=00FF00" height="150" alt="languages graph" />
 
-  <img align="right" style="margin-left: 10px;" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTExN25laDl3dzZibzExbm9waGtuYjNqdXcxeXBkYzhza3loNGw2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" />
+  <img align="right" style="margin-left: 10px;" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTExN25laDl3dzZibzExbm9waGtuYjNqdXcxeXBkYzhza3loNGw2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" />
 </div>
 
 
